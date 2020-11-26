@@ -1,0 +1,33 @@
+{
+  "name": "globy-api",
+  "version": "1.0.0",
+  "description": "API REST for GlobyKey",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "devbabel": "nodemon src/index.js --exec babel-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "connect-history-api-fallback": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.8.7",
+    "rand-token": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.7",
+    "@babel/core": "^7.8.0",
+    "@babel/node": "^7.8.0",
+    "@babel/preset-env": "^7.8.2",
+    "nodemon": "^2.0.2"
+  }
+}

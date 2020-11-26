@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50926258957",
+    "firebase_url": "https://geowork-d7d19.firebaseio.com",
+    "project_id": "geowork-d7d19",
+    "storage_bucket": "geowork-d7d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50926258957:android:aba372f47bd4c0ef70fe44",
+        "android_client_info": {
+          "package_name": "com.geowork.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50926258957-7l3b360go82rpfgnr9kmbmktaqmuomn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geowork.app",
+            "certificate_hash": "1479427c423c75d616c0501894881a2667a820f9"
+          }
+        },
+        {
+          "client_id": "50926258957-85gaooehnduvg077nemv13pilt4rhhif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BnrdUUsyXBAx35FH4tZGypmOirY8aoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50926258957-85gaooehnduvg077nemv13pilt4rhhif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
