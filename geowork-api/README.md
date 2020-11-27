@@ -1,7 +1,7 @@
 # GeoWork API
 
 <p align="center">
-  <img  src="https://res.cloudinary.com/dlqmpatgu/image/upload/v1606011353/800_600_trans_5fb844cd03e06_taljtd.png" | width=300 />
+  <img  src="https://res.cloudinary.com/dlqmpatgu/image/upload/v1606455921/800_600_trans_5fc091674b06e_c9dzrb.png" | width=300 />
 </p>
 
 ## Project description :page_facing_up:
