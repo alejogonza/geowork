@@ -10,8 +10,6 @@ REST API for GeoWork.
 
 ## Requirements and installation :memo:
 
-- It is required to have port 3001 (Backend) for its correct operation in development mode.
-- It is required to have port 3001 (Backend) for its correct operation in production mode.
 - Node.js installed.
 - MongoDB installed.
 
