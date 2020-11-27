@@ -44,7 +44,7 @@ For examples and more detailed information check the postman section
 | /api/auth/me | GET |Get user information| **user or admin**
 | /api/me | PATCH |Edit user information| **user or admin**
 | /api/FCMtoken-renew | PATCH |Renew the FCM token of the user in the database| **user or admin**
-| /api | PATCH | Get the state of the api | Not required
+| /api | GET | Get the state of the api | Not required
 
 ## Postman :man_astronaut:
 
