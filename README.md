@@ -15,7 +15,7 @@ REST API + SPA + Android application of a basic model of an application of jobs 
 * If you want to try the application for android download it here: [GeoWork APK](https://github.com/alejogonza/geowork/blob/main/geowork/GeoWork.apk)
 ## Notes :notebook_with_decorative_cover:
 
-* This project was carried out in 3 days as a technical test for RootStack
+* This project was carried out in 3 days
 
 * This project was carried out with quasar framework for the SPA and the android application and with express and mongoDB for the REST API
 
